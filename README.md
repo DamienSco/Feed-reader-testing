@@ -9,10 +9,12 @@ This project is based on the concept of test-driven javascript programming. Usin
 
 ## How to Run the Application
 
-1.You can download or clone this repository.
+1. Click on [this link](https://damiensco.github.io/feed-reader-testing/index.html#).
 
-2.Find the `index.html` file, and open the file in a modern browser.
+2.You can download or clone this repository.
 
-3.The Jasmine tests are displayed at the bottom of the index.html page.
+3.Find the `index.html` file, and open the file in a modern browser.
 
-4.Open the `jasmine/spec/feedreader.js` file to start editing the test suites.
+4.The Jasmine tests are displayed at the bottom of the index.html page.
+
+5.Open the `jasmine/spec/feedreader.js` file to start editing the test suites.
